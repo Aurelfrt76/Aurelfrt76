@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[click me](www.google.com)
+[click me](https://www.google.com)
 
 <!---
 Aurelfrt76/Aurelfrt76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
